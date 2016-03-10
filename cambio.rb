@@ -1,6 +1,6 @@
 
 abc = {"a"=>"b","b"=>"c","c"=>"d","d"=>"E","e"=>"f","f"=>"g","g"=>"h","h"=>"I","i"=>"j","j"=>"k","k"=>"l","l"=>"m","m"=>"n","n"=>"O","o"=>"p","p"=>"q","q"=>"r","r"=>"s","s"=>"t","t"=>"U","u"=>"v","v"=>"x","x"=>"y","y"=>"z","z"=>"A"}
-frase2= " "
+puts "ingrese la frase o valor a codificar"
 frase = gets.chomp
 frasev=[]
 cambio=[]
